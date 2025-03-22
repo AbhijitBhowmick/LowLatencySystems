@@ -13,6 +13,7 @@ by Sourav Ghosh (Author)
 
 
 
+
 AlgoTrading
 1.https://wangzhe3224.github.io/awesome-systematic-trading/#quant-shops-code-and-blog
 2.https://medium.com/@austin-starks/i-built-an-algorithmic-trading-system-in-rust-heres-what-i-regret-a89f378b22c9
@@ -20,7 +21,11 @@ https://github.com/austin-starks/NextTrade?source=post_page-----a89f378b22c9----
 3.https://ta4j.github.io/ta4j-wiki/Live-trading.html
 4.https://alpaca.markets/learn/building-your-algorithmic-trading-setup
 5.https://tradingalgo.blr1.cdn.digitaloceanspaces.com/sim.html
-6.
+6.https://github.com/jesse-ai/jesse
+7.https://github.com/marketcalls/openalgo
+
+Train
+1.https://www.wbstraining.com/events/quantitative-developer-certificate/course-syllabus/
 
 Quant
 1.https://drive.google.com/file/d/1kWi9MR6rhUabTKobEYAAk-dL7TXinTWc/view
