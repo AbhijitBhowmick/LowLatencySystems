@@ -9,7 +9,7 @@
 by Sebastien Donadio (Author), Sourav Ghosh (Author), Romain Rossier (Author)
 8.Building Low Latency Applications with C++: Develop a complete low latency trading ecosystem from scratch using modern C++
 by Sourav Ghosh (Author)
-9.
+9.https://github.com/LMAX-Exchange/disruptor/wiki/Blogs-And-Articles
 
 
 
